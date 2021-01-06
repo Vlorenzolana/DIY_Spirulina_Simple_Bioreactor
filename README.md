@@ -29,5 +29,3 @@ Kit Spirulina DIY :
    Bright white LED (extra size)
    Resistance 330 Ohm
    1K resistor
-  
-  
