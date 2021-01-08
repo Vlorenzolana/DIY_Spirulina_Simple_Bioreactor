@@ -3,7 +3,7 @@ Version simplificada de un bioreactor de spirulina (nota: esto es una version ex
 
 Kit Spirulina DIY :
 – Botella reciclada de Vidrio (Agua Vichy Catalan or similar, diámetro max base 90mm)
-– Base de plástico (diseño 3D en este repositorio Github)
+– Base de plástico (diseño 3D en este repositorio Github, ojo! puede que tengas que escalar para poder alojar tu botella ~90mm diametro interior)
 – Tubo de silicona
 – Sistema electrónico: 
   Placa micro-controlador Arduino Nano o compatible
@@ -19,7 +19,7 @@ Kit Spirulina DIY :
   
   Spirulina DIY Kit:
 - Recycled Glass Bottle (Vichy Catalan Water or similar, max base diameter 90mm)
-- Base of (bio) plastic (3D design on this Github repository)
+- Base of (bio) plastic (3D design on this Github repository, warning! you may need to scale it to ~90mm interior diameter)
 - Silicone tube
 - Electronic system:
    Arduino Nano or compatible micro-controller board
