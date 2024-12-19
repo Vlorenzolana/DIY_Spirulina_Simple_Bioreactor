@@ -8,11 +8,13 @@ Kit Spirulina DIY :
 – Sistema electrónico: 
   Placa micro-controlador Arduino Nano o compatible
   Bomba de aire y vacío motor DC - 4.5V y 1.8 LPM
-  Transistor TIP120 Darlington 
+  Transistor TIP120 Darlington
+  Resistencia 1K (transistor/bomba)
   Diodo 1N4001 
   LED blanco brillante (tamaño extra) 
-  Resistencia 330 Ohm
-  Resistencia 1K
+  Resistencia 220 Ohm (LED blanco)
+  LED UV
+  Resistencia 100 Ohm (UV LED)
   
   **************************
   Compact simplified version of a Spirulina bioreactor to have at home. (note: work in progress)
@@ -25,7 +27,9 @@ Kit Spirulina DIY :
    Arduino Nano or compatible micro-controller board
    Air and vacuum pump DC motor - 4.5V and 1.8 LPM
    TIP120 Darlington transistor
+   1K Resistor (for the transistor/pump)
    Diode 1N4001
    Bright white LED (extra size)
-   Resistance 330 Ohm
-   1K resistor
+   220 Ohm Resistor(for the white LED)
+   UV LED
+   100 Ohm resistor (for the UV LED)
